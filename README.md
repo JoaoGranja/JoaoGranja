@@ -1,13 +1,9 @@
-I am a software engineer who love developing clean, innovative and high quality solutions. 
-I am a very versatile engineer who have worked with embedded systems (programming on microcontrollers) but also 
-with distributed systems (Middleware, software applications). 
-What pull me up are challenges and interesting projects where I need to analyse in detail about it and decide the best solution to solve it.
-I love working on team, helping my colleagues finding solutions for their problems, and keep learning new stuffs (methodologies, technologies, languages)
+I am a deep learning engineer who loves to extract meaningful insights from data, especially image data. My deep learning experience includes: Image Classification, Semantic Segmentation, Object Detection, Behaviour Cloning and Federated Learning
 
-In order to keep me up motivated and be ready to face future challenges, I usually read some papers and take some online courses. 
-I will love keep working on Machine Learning, Deep Learning and Computer Vision projects. 
+- :zap: I love math, programming, data science, and books
+- 🌱 I’m addicted to learning and growing every day
+- :mountain_snow: I work hard to be ready for new challenges 
 
-<!---
-JoaoGranja/JoaoGranja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![JoaoGranja's github stats](https://github-readme-stats.vercel.app/api?username=joaogranja&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/joaogranja/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaogranja&layout=compact)](https://github.com/joaogranja/github-readme-stats)
