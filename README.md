@@ -1,4 +1,4 @@
-I am a deep learning engineer who loves to extract meaningful insights from data, especially image data. Though my rich deep learning experience which includes: Image Classification, Semantic Segmentation, Object Detection, Behavior Cloning and Federated Learning, I am addicted to working on new projects using this fascinated technology from this new world which calls **Deep Learning**.
+I am a Data Scientist who loves to extract meaningful insights from data, especially image data. Though my rich deep learning experience which includes: Image Classification, Semantic Segmentation, Object Detection, Behavior Cloning and Federated Learning, I am addicted to working on new projects using this fascinated technology from this new world which calls **Data Science**.
 
 - :zap: I love math, programming, data science, and books
 - 🌱 I’m addicted to learning and growing every day
